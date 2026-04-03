@@ -10,7 +10,7 @@
     "service_worker": "background.js"
   },
   "icons": {
-    "128": "images (2).jpeg"
+    "128": "icon.png"
   },
   "permissions": [
     "declarativeNetRequestWithHostAccess"
