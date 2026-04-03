@@ -16,8 +16,6 @@ It focuses on clean visuals, smooth gameplay, and PvP clarity.
 
 💻 Fully compatible with Miniblox
 
-**📸 Preview**
-
 **📥 Installation**
 1. Download the .zip file
 2. Open Miniblox
